@@ -2,16 +2,13 @@
 
 Bu proje, React Native kullanarak geliştirilen bir Food Delivery uygulamasının ön yüzünün tasarım çalışmasıdır.
 
-<b>Özellikler</b>
-Ana Sayfa: Ürün listesi gösterimi
-Ürün Detay Sayfası: Ürün bilgilerini görüntüleme
-Kullanılan Teknolojiler
-React Native: Mobil uygulama geliştirme
-Expo: Proje ortamı ve araçlar
-React Navigation: Sayfa geçişleri
-Redux: Durum yönetimi
-Axios: API istekleri
-@expo/vector-icons: İkon kütüphanesi
-expo-linear-gradient: Lineer gradyan efektleri
-expo-status-bar: Durum çubuğu yönetimi
-react-native-safe-area-context: Güvenli alan yönetimi
+<h3>Özellikler</h3>
+<b>Ana Sayfa:</b> Ürün listesi gösterimi</br>
+<b>Ürün Detay Sayfası:</b> Ürün bilgilerini görüntüleme</br>
+<h3>Kullanılan Teknolojiler</h3></br>
+<b>React Native:</b> Mobil uygulama geliştirme</br>
+<b>Expo:</b> Proje ortamı ve araçlar</br>
+<b>React Navigation:</b> Sayfa geçişleri</br>
+<b>Axios:</b> API istekleri</br>
+react-native-feather: İkon kütüphanesi
+expo-status-bar: Durum çubuğu
