@@ -1,8 +1,8 @@
-<h3>ReactNative-AmazonClone</h3>
+<h3>ReactNative-FoodDelivery</h3>
 
-Bu proje, React Native kullanarak geliştirilen bir Amazon Clone uygulamasının ön yüzüdür. Şu an için sadece ana sayfa ve ürün detay sayfası kodlanmıştır.
+Bu proje, React Native kullanarak geliştirilen bir Food Delivery uygulamasının ön yüzünün tasarım çalışmasıdır.
 
-Özellikler
+<b>Özellikler</b>
 Ana Sayfa: Ürün listesi gösterimi
 Ürün Detay Sayfası: Ürün bilgilerini görüntüleme
 Kullanılan Teknolojiler
