@@ -10,5 +10,6 @@ Bu proje, React Native kullanarak geliştirilen bir Food Delivery uygulamasını
 <b>Expo:</b> Proje ortamı ve araçlar</br>
 <b>React Navigation:</b> Sayfa geçişleri</br>
 <b>Axios:</b> API istekleri</br>
-react-native-feather: İkon kütüphanesi
-expo-status-bar: Durum çubuğu
+<b>react-native-feather:</b> İkon kütüphanesi</br>
+<b>expo-status-bar:</b>b> Durum çubuğu
+
