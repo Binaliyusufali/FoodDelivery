@@ -13,3 +13,4 @@ Bu proje, React Native kullanarak geliştirilen bir Food Delivery uygulamasını
 <b>react-native-feather:</b> İkon kütüphanesi</br>
 <b>expo-status-bar:</b>b> Durum çubuğu
 
+<img src="FoodDelivery-Ekran Kaydı.gif/>
